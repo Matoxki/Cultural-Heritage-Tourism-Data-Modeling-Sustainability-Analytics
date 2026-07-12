@@ -22,6 +22,6 @@ What I found once the model was actually right:
 * `Tourism_Data_Transformation.sql`: The complete T-SQL script containing the ELT logic, Junk Dimension creation, and foreign key constraints.
 * I can not include the `Tourism_Sustainability_Dashboard.pbix`: Size limitations 
 * `Dashboard_Preview.pdf`: High-resolution exports of the final dashboard pages.
-* * `Model View.png`: The Model Screenshot from Power BI.
+* `Model View.png`: The Model Screenshot from Power BI.
 
 *Thank you for checking out my work! Feel free to reach out if you want to chat about data modeling, DAX, or heritage conservation.*
