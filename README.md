@@ -14,7 +14,7 @@ What I found once the model was actually right:
 1. Maintenance spend tracks damage severity (r = 0.93); reactive, not preventive.
 2. Overcrowding tanks visitor satisfaction (r = -0.78) 
 3. Revenue per visitor is flat everywhere (~$123-125); totals vary because of volume, not value 
-4. 4Environmental impact scales almost 1:1 with visitor count (r = 0.95)
+4. Environmental impact scales almost 1:1 with visitor count (r = 0.95)
 
 
 
